@@ -1,0 +1,22 @@
+.houses__container {
+  display: grid;
+  justify-items: center;
+  gap: 30px;
+  padding-bottom: 30px;
+}
+
+.houses__wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 50px;
+  row-gap: 30px;
+}
+
+.houses__content {
+  display: grid;
+  gap: 5px;
+}
+
+.links-house {
+  padding-left: 40px;
+}

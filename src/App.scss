@@ -1,0 +1,21 @@
+.header {
+  display: grid;
+  height: 170px;
+  background: url("got-logo.jpg") no-repeat center;
+  background-size: 100vw;
+  color: white;
+}
+
+.nav__links {
+  padding-top: 20px;
+  display: grid;
+  justify-items: left;
+  padding-left: 20px;
+}
+
+.links-header {
+  font-size: 40px;
+  color: white;
+  font-weight: 600;
+}
+

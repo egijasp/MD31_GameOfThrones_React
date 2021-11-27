@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
+
+.quotes__list {
+  font-size: 25px;
+}
